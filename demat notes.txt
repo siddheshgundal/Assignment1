@@ -1,0 +1,40 @@
+
+
+intro
+
+Depositories in India (NSDL and CDSL) provide various services to investors
+ and other participants in the capital market like, clearing members, stock exchanges, 
+banks and issuers of securities. These include basic facilities like account maintenance, 
+dematerialisation, rematerialisation, pledging, settlement of trades through market transfers,
+ off market transfers & inter-depository transfers, securities lending and borrowing, distribution
+ of non-cash corporate actions and nomination & transmission. The depository system, which links the issuers, 
+depository participants (DPs), Depositories and clearing corporation / clearing house of stock exchanges, 
+facilitates holding of securities in dematerialised form and effects transfers.
+DP Dlite is been designed by keeping in mind the operational flow at DP office. 
+This system augments the depository system giving more system security in transaction processing and a robust billing. 
+It is a Robust, intelligent and excellent tool for Managing and accounting the Depository operation.
+
+
+------------------------------------------------
+features:
+
+Latest Technologies
+
+DP Dlite is built in Dot Net Technology Coupled with Windows server 2003.
+ This technology enhances security and increases performance nearly by 2 times on the same hardware compared
+ with other versions of Windows operating system.
+
+
+Smart Design
+
+User interface is carefully designed considering common operators working. 
+The methodology used for devising the DP Dlite screen layouts and the entire process has been kept 
+similar to that of the parent system of NSDL and CDSL thereby making the system easy to understand for the end user.
+
+
+Integrated
+
+The same operator can perform CDSL and NSDL operations and hence application UI is designed
+ for integrated CDSL and NSDL systems.
+
+also offers a uniform interface in case of both NSDL & CDSL operations.
