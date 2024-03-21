@@ -10,7 +10,9 @@ namespace hello1
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello world");
+            string name = Console.ReadLine().ToString();
+            Console.WriteLine("Hello, " + name + "!");
+            Console.ReadKey();
         }
     }
 }
